@@ -5,4 +5,5 @@
 //Demo3_func.Run();
 //Demo4_linq.Run();
 //Demo5_linq_liste_med_objekter.Run();
-Demo6_main_linq_methods.Run();
+//Demo6_main_linq_methods.Run();
+Demo7_group_by.Run();
