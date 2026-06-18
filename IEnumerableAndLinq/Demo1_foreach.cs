@@ -1,4 +1,6 @@
-﻿namespace IEnumerableAndLinq
+﻿using IEnumerableAndLinq.Demo1;
+
+namespace IEnumerableAndLinq
 {
     internal class Demo1_foreach
     {
