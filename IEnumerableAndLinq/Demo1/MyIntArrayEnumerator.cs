@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace IEnumerableAndLinq
+namespace IEnumerableAndLinq.Demo1
 {
     internal class MyIntArrayEnumerator : IEnumerator<int>
     {
